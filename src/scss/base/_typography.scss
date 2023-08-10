@@ -1,6 +1,6 @@
-@use '../abstracts/variables';
+@use '../abstracts' as *;
 
 //Styles
 body {
-    font-family: variables.$karla-font;
+    font-family: $karla-font;
 }

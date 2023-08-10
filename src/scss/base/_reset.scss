@@ -1,0 +1,6 @@
+@use '../abstracts/' as *;
+
+//Resetting the whole project
+* {
+    @include reset();
+}

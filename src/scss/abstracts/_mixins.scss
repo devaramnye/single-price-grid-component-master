@@ -1,0 +1,6 @@
+// Resetting the whole document for starting up by 0
+
+@mixin reset() {
+    box-sizing: border-box;
+    margin: 0;
+}
