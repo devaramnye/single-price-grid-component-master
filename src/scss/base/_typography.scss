@@ -1,6 +1,12 @@
-@use '../abstracts' as *;
+@use '../abstracts' as font;
 
-//Styles
+//Font Style
 body {
-    font-family: $karla-font;
+    font-family: font.$karla-font;
+}
+
+.area {
+    p {
+        @include font.fontsett(1rem, 700);
+    }
 }

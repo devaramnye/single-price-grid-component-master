@@ -4,3 +4,10 @@
     box-sizing: border-box;
     margin: 0;
 }
+
+// Font settings
+
+@mixin fontsett($x, $y) {
+    font-size: $x;
+    font-weight: $y;
+}
