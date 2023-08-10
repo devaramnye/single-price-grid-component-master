@@ -1,12 +1,25 @@
-@use '../abstracts' as font;
+@use '../abstracts/' as *;
 
 //Font Style
 body {
-    font-family: font.$karla-font;
+    font-family: $karla-font;
 }
 
 .area {
     p {
-        @include font.fontsett(1rem, 700);
+        @include fontsett(1rem, 400);
     }
+}
+
+.area {
+    .second-header,
+    .third-header {
+        color: hsl(204, 43%, 93%);
+        @include fontsett(1.1rem, 700)
+    }
+}
+
+.first-header {
+    color: $area-2;
+    @include fontsett(1.1rem, 700)
 }

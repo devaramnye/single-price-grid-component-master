@@ -1,8 +1,3 @@
-//Google Fonts
-@font-face {
-    font-family: 'Karla';
-    src: url(https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap);
-}
 // Font variable
 $karla-font: 'Karla', sans-serif;
 
@@ -10,4 +5,6 @@ $karla-font: 'Karla', sans-serif;
 $karla-regular: 400;
 $karla-bold: 700;
 
-// Font colors
+// Background Color
+$area-2: hsl(179, 62%, 43%);
+$area-3: hsl(179, 62%, 47%);
