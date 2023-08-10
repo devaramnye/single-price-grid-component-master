@@ -27,7 +27,7 @@
 84C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\domelementtype133361459645136207 1
 67C:\Users\Aram\Desktop\single-price-grid-component-master\src\design133359824430754470 1
 91C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@parcel\markdown-ansi133361459667676976 1
-61C:\Users\Aram\Desktop\single-price-grid-component-master\dist133361486707455667 1
+61C:\Users\Aram\Desktop\single-price-grid-component-master\dist133361525327348458 1
 88C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\svgo\lib\svgo.d.ts133361459675498680 0
 67C:\Users\Aram\Desktop\single-price-grid-component-master\.gitignore133360661841097172 0
 110C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@parcel\transformer-postcss\package.json133361459653069114 0
@@ -59,7 +59,7 @@
 76C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\dotenv133361459677633038 1
 124C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@swc\helpers\_\_object_without_properties\package.json133361459662351562 0
 71C:\Users\Aram\Desktop\single-price-grid-component-master\src\.gitignore133359824431474561 0
-88C:\Users\Aram\Desktop\single-price-grid-component-master\src\scss\abstracts\_mixins.scss133361472712144979 0
+88C:\Users\Aram\Desktop\single-price-grid-component-master\src\scss\abstracts\_mixins.scss133361525139958051 0
 140C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Number.js133361459654913712 0
 113C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\update-browserslist-db\check-npm-version.js133360793070903843 0
 121C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@babel\highlight\node_modules\color-name\.npmignore133361459642170832 0
@@ -87,7 +87,7 @@
 90C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\term-size\index.d.ts133361459647275838 0
 84C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\dotenv\LICENSE133361459677583044 0
 101C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\lmdb\node_modules\msgpackr\dist133361459684786186 1
-71C:\Users\Aram\Desktop\single-price-grid-component-master\src\index.html133361486707049253 0
+71C:\Users\Aram\Desktop\single-price-grid-component-master\src\index.html133361523339980804 0
 79C:\Users\Aram\Desktop\single-price-grid-component-master\src\README-template.md133359824432317466 0
 90C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\node-addon-api\tools133361459676450205 1
 91C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\browserslist\parse.js133360793080133875 0
@@ -124,7 +124,7 @@
 112C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\htmlnano\lib\modules\collapseWhitespace.js133361459645602507 0
 111C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@swc\helpers\cjs\_to_consumable_array.cjs133361459653989514 0
 119C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo.cmd133361459803030266 0
-83C:\Users\Aram\Desktop\single-price-grid-component-master\src\scss\layout\_area.scss133361487715798170 0
+83C:\Users\Aram\Desktop\single-price-grid-component-master\src\scss\layout\_area.scss133361519082041932 0
 86C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\js-yaml\index.js133361459677229098 0
 81C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\is-arrayish133360793080053781 1
 125C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\css-select\node_modules\dom-serializer\lib\esm\index.js133361459681748282 0
@@ -137,7 +137,7 @@
 85C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\semver\index.js133361459648783916 0
 78C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\lmdb\src133361459656494378 1
 99C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@swc\helpers\lib\_inherits.js133361459659318890 0
-75C:\Users\Aram\Desktop\single-price-grid-component-master\src\scss\main.scss133361473320598226 0
+75C:\Users\Aram\Desktop\single-price-grid-component-master\src\scss\main.scss133361525327138040 0
 101C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\.bin\update-browserslist-db.ps1133360793099572776 0
 85C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@parcel\watcher133361459649896466 1
 98C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\entities\lib\encode.d.ts.map133361459679951482 0
@@ -163,7 +163,7 @@
 109C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133361459690287304 0
 91C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\css-tree\dist\data.js133361459690058855 0
 142C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDimensions.js133361459684585844 0
-91C:\Users\Aram\Desktop\single-price-grid-component-master\src\scss\abstracts\_variables.scss133361487653326152 0
+91C:\Users\Aram\Desktop\single-price-grid-component-master\src\scss\abstracts\_variables.scss133361490993876373 0
 99C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\sass\types\value\boolean.d.ts133360768450023184 0
 118C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@parcel\core\test\fixtures\common-targets-ignore133361459683037776 1
 100C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\msgpackr\dist\index.min.js.map133361459652048673 0
@@ -184,7 +184,7 @@
 75C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@lmdb133361460171651456 1
 135C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\create.js133361459649650860 0
 120C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\csso\node_modules\css-tree\lib\generator\create.js133361459690287304 0
-87C:\Users\Aram\Desktop\single-price-grid-component-master\src\scss\base\_typography.scss133361481668047251 0
+87C:\Users\Aram\Desktop\single-price-grid-component-master\src\scss\base\_typography.scss133361493377270564 0
 126C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133361459648984485 0
 97C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\css-select\lib\compile.d.ts133361459685812557 0
 95C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\semver\functions\minor.js133361459649650860 0
@@ -2493,7 +2493,7 @@
 112C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133361459653693896 1
 111C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\css-tree\cjs\syntax\node\TypeSelector.cjs133361459688752823 0
 100C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@swc\helpers\src\_ts_param.mjs133361459670185839 0
-112C:\Users\Aram\Desktop\single-price-grid-component-master\dist\single-price-grid-component-master.59712999.js.map133361484056775574 0
+112C:\Users\Aram\Desktop\single-price-grid-component-master\dist\single-price-grid-component-master.59712999.js.map133361490749143929 0
 92C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\js-tokens\package.json133360793069861755 0
 143C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133361459683680373 0
 117C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@swc\helpers\src\_object_without_properties.mjs133361459669435654 0
@@ -3506,7 +3506,7 @@
 116C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\caniuse-lite\data\features\css-text-spacing.js133360790540841994 0
 105C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\css-tree\cjs\syntax\atrule\nest.cjs133361459687019778 0
 105C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\css-tree\cjs\parser\SyntaxError.cjs133361459688569292 0
-72C:\Users\Aram\Desktop\single-price-grid-component-master\dist\index.html133361486707435707 0
+72C:\Users\Aram\Desktop\single-price-grid-component-master\dist\index.html133361523340326693 0
 106C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\css-tree\cjs\lexer\generic-const.cjs133361459684350217 0
 107C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\css-tree\cjs\lexer\generic-urange.cjs133361459684445421 0
 106C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\@parcel\codeframe\test\fixtures\a.js133361459675164798 0
@@ -6108,7 +6108,7 @@
 83C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\.bin\svgo.ps1133361459803090573 0
 97C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\.bin\update-browserslist-db133360793099572776 0
 101C:\Users\Aram\Desktop\single-price-grid-component-master\node_modules\.bin\update-browserslist-db.cmd133360793099562772 0
-88C:\Users\Aram\Desktop\single-price-grid-component-master\dist\favicon-32x32.6aac2c21.png133361481787852778 0
-80C:\Users\Aram\Desktop\single-price-grid-component-master\dist\index.b10d73a7.css133361485571654714 0
-84C:\Users\Aram\Desktop\single-price-grid-component-master\dist\index.b10d73a7.css.map133361485571678362 0
-108C:\Users\Aram\Desktop\single-price-grid-component-master\dist\single-price-grid-component-master.59712999.js133361484056720361 0
+88C:\Users\Aram\Desktop\single-price-grid-component-master\dist\favicon-32x32.6aac2c21.png133361490749083855 0
+80C:\Users\Aram\Desktop\single-price-grid-component-master\dist\index.b10d73a7.css133361525327298498 0
+84C:\Users\Aram\Desktop\single-price-grid-component-master\dist\index.b10d73a7.css.map133361525327328498 0
+108C:\Users\Aram\Desktop\single-price-grid-component-master\dist\single-price-grid-component-master.59712999.js133361490749063729 0
