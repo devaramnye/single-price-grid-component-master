@@ -1,10 +1,6 @@
-// Google Fonts
-@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
-
-// Variables
-$karla-font: 'Karla', sans-serif;
+@use '../abstracts/variables';
 
 //Styles
 body {
-    font-family: $karla-font;
+    font-family: variables.$karla-font;
 }

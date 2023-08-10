@@ -1,2 +1,9 @@
+@font-face {
+  font-family: "Karla";
+  src: url(https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap);
+}
+body {
+  font-family: "Karla", sans-serif;
+}
 
 /*# sourceMappingURL=/main.77bb5cfd.css.map */
